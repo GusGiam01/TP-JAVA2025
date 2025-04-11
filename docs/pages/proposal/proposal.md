@@ -2,7 +2,7 @@
 
 ## Modelo de Datos
 
-![Modelo de Datos]()
+![Modelo de Datos](../../assets/data-model/data-model.png)
 
 ## Alcance Funcional
 
