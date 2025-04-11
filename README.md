@@ -12,4 +12,4 @@ Esta aplicación pertenece a una empresa que se dedica al traspaso de jugadores 
 
 ## 📑 Documentación
 
-Hacé click en el enlace para visualizar la **[documentación completa del proyecto]()**.
+Hacé click en el enlace para visualizar la **[documentación completa del proyecto](./docs/README.md)**.
